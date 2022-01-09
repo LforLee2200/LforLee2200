@@ -1,16 +1,20 @@
-### Hi there 👋
+### System.out.print("Hello, World!");
 
-<!--
-**LforLee2200/LforLee2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Arthur.
+- Estudo para full-stack.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## connect with me
+
+![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) - L4Lee#7924
+
+## Skills
+
+![java](https://camo.githubusercontent.com/cb6733dd691a2b86cb9940a8353e763bd673b5d1967bbee7355067d21b5aa6df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)![html](https://camo.githubusercontent.com/2d456afd0c90568812a8c43a8e99115da6184671ae32ce58ffb7925125ce43dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d666666)![css](https://camo.githubusercontent.com/0742c95bd7f1c0da801926a60f2d8ea54bf376329267e41517fcfa74fff36163/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373262363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d666666) 
+
+
+![w](https://camo.githubusercontent.com/8c288e1bf2b8f4fdc5fb2b569194a691d63f4a98d415ed69033b59aaf717e297/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302d3233373662633f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666) ![w](https://camo.githubusercontent.com/d623482fe6cfe492a222eca75b2c67259eedb786deba845deae9d02ee1bc8668/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666)
+
+
+
+![Inked8bit](https://user-images.githubusercontent.com/92128544/148705452-47169701-f34b-4016-95e4-beb2097fc81e.gif)
