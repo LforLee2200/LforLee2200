@@ -1,8 +1,5 @@
 ### System.out.print("Hello, World!");
 
-- Meu nome é Arthur.
-- Estudo para full-stack.
-
 
 ## connect with me
 
