@@ -21,5 +21,4 @@
 
 
 
-<div align:center"><img src="https://user-images.githubusercontent.com/92128544/148705452-47169701-f34b-4016-95e4-beb2097fc81e.gif"></div>
 
